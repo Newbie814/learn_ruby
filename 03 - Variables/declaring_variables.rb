@@ -21,3 +21,5 @@ chameleon = 24
 chameleon = "Matthew"
 chameleon = 3.14
 puts chameleon
+
+# browser = Watir::Browser.new(:chrome, desired_capabilities: { accept_insecure_certs: true })
